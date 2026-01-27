@@ -1,9 +1,7 @@
 # Resume
 ## 📸 Screenshot
 
-![Resume Preview] (Resume.png)
-
-<img src="Resume.png" alt="Resume Preview" width="600">
+<img src="Resume/Resume.png" alt="Resume Preview" width="600">
 
 
 
