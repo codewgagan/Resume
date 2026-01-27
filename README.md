@@ -1,4 +1,11 @@
 # Resume
+## 📸 Screenshot
+
+![Resume Preview] (Resume.png)
+
+<img src="Resume.png" alt="Resume Preview" width="600">
+
+
 
 # Resume Page (HTML Only)
 
