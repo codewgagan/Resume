@@ -3,6 +3,11 @@
 
 <img src="Resume/Resume.png" alt="Resume Preview" width="600">
 
+# Demo Video
+
+<video src="c:\Users\gowda\Videos\ScreenRecorderFiles\20260128\04-55-19.mp4" controls></video>
+
+
 
 
 # Resume Page (HTML Only)
